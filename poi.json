@@ -1,6 +1,6 @@
 [
   {
-    "# id":1,
+    "id":1,
     "NL_name":"Sint-Niklaaskerk ",
     "ENG_name":"St. Nicholas' Church",
     "FR_name":" Omelet du fromage",
@@ -12,7 +12,7 @@
     "image_link":"http://www.sintniklaaskerk.be/media/photos/560/021f552775075dd9e053e30072ea21045d628ef3.jpg"
   },
   {
-    "# id":2,
+    "id":2,
     "NL_name":"Korenmarkt",
     "ENG_name":"Korenmarkt",
     "FR_name":"KorenMarkt",
@@ -24,7 +24,7 @@
     "image_link":"http://fideel.files.wordpress.com/2009/08/korenmarkt-ca-1910-2.jpg"
   },
   {
-    "# id":3,
+    "id":3,
     "NL_name":"Stadhuis",
     "ENG_name":"Town Hall",
     "FR_name":" Croissant",
@@ -34,5 +34,17 @@
     "ENG_description":" eng stadhuis",
     "FR_description":" fr stadhuis",
     "image_link":"http://upload.wikimedia.org/wikipedia/commons/2/2c/Gent_stadhuis_belfort_1890-1900.jpg"
+  },
+  {
+    "id":4,
+    "NL_name":"Haven",
+    "ENG_name":"Port",
+    "FR_name":"Fromage",
+    "lat":51.105873,
+    "long":3.740172,
+    "NL_description":"Haven",
+    "ENG_description":"Port",
+    "FR_description":"Fromage du bateau",
+    "image_link":"http://www.logistiek.be/wp-content/uploads/2012/07/haven-Gent-460x250.jpg"
   }
 ]
