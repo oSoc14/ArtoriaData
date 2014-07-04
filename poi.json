@@ -1,5 +1,17 @@
 [
   {
+    "id":0,
+    "NL_name":"Oud postgebouw",
+    "ENG_name":"Former Post Office",
+    "FR_name":"Ancien bâtiment des postes",
+    "lat":51.05425, 
+    "lon":3.721211,
+    "NL_description":"Zodra de eerste zonnestralen de lente aankondigen, worden op de Korenmarkt de terrasjes buitengezet. In het voormalige postgebouw, met zijn mooie torenklok, is nu een winkelcentrum ingericht.  ",
+    "ENG_description":"As soon as the first rays of sunshine announce the arrival of spring, the pavement cafés start appearing on the Korenmarkt. The former post office, with its beautiful clock tower, now houses a shopping centre  ",
+    "FR_description":"Dès que les premiers rayons de soleil annoncent le printemps, les terrasses envahissent le Korenmarkt. L’ancien bâtiment des postes, avec sa belle horloge, abrite aujourd’hui un centre commercial.  ",
+    "image_link":"http://nl.wikipedia.org/wiki/Oud_Postkantoor_(Gent)#mediaviewer/Bestand:Gent_Korenmarkt_Oud_Postkantoor_9-11-2010_16-28-56.JPG"
+  },
+  {
     "id":1,
     "NL_name":"Sint-Niklaaskerk ",
     "ENG_name":"St. Nicholas' Church",
@@ -142,17 +154,5 @@
     "ENG_description":"The steeple of St Michael’s Church should have stood out above all the others, but history decided otherwise: the 134 metre high planned ‘monument of triumph’, has remained at a paltry 24 metres. In 1828, the unfinished tower finally acquired a closed roof. The church contains numerous paintings and sculptures by famous masters, including ‘Christ on the Cross’ by Anthony Van Dyck.  ",
     "FR_description":"La flèche de l’église Saint-Michel aurait dû dépasser toutes les autres, mais l’histoire en a décidé autrement: c’est en effet le prétendu ‘monument de la victoire’ de 134 mètres qui culmine, à 24 mètres seulement. En 1828, la tour inachevée a hérité définitivement d’un toit plat. L’église abrite de nombreuses œuvres de maîtres connus, dont ‘Le Christ en croix’ d’Antoon Van Dyck.  ",
     "image_link":"http://home.scarlet.be/~par2092/images/S_SM.jpg"
-  },
-  {
-    "id":13,
-    "NL_name":"Oud postgebouw",
-    "ENG_name":"Former Post Office",
-    "FR_name":"Ancien bâtiment des postes",
-    "lat":51.05425, 
-    "lon":3.721211,
-    "NL_description":"Zodra de eerste zonnestralen de lente aankondigen, worden op de Korenmarkt de terrasjes buitengezet. In het voormalige postgebouw, met zijn mooie torenklok, is nu een winkelcentrum ingericht.  ",
-    "ENG_description":"As soon as the first rays of sunshine announce the arrival of spring, the pavement cafés start appearing on the Korenmarkt. The former post office, with its beautiful clock tower, now houses a shopping centre  ",
-    "FR_description":"Dès que les premiers rayons de soleil annoncent le printemps, les terrasses envahissent le Korenmarkt. L’ancien bâtiment des postes, avec sa belle horloge, abrite aujourd’hui un centre commercial.  ",
-    "image_link":"http://nl.wikipedia.org/wiki/Oud_Postkantoor_(Gent)#mediaviewer/Bestand:Gent_Korenmarkt_Oud_Postkantoor_9-11-2010_16-28-56.JPG"
   }   
 ]
