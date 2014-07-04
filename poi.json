@@ -3,12 +3,12 @@
     "id":1,
     "NL_name":"Sint-Niklaaskerk ",
     "ENG_name":"St. Nicholas' Church",
-    "FR_name":" Omelet du fromage",
+    "FR_name":"Église Saint-Nicolas",
     "lat": 51.053939,
     "lon": 3.722958,
-    "NL_description":"nl kerkekrekerkerkek",
-    "ENG_description":" eng blauqslef",
-    "FR_description":" fr qslfdkj",
+    "NL_description":"Deze in Doornikse blauwe steen opgetrokken kerk is één van de mooiste voorbeelden van de Scheldegotiek. Uniek is de zogenaamde vieringtoren die niet boven de ingang, maar boven de kruising van hoofd- en zijbeuken staat. Hij fungeert als een soort natuurlijke lantaarn, omdat het licht via de toren de dwarsbeuk binnenvalt. - See more at: http://www.visitgent.be/nl/sint-niklaaskerk-0?context=tourist#sthash.fq7tM6GV.dpuf",
+    "ENG_description":"This church in Tournai bluestone is one of the most beautiful examples of the Scheldt Gothic style. One of its unique elements is that the tower is not above the entrance, but above the crossing of the nave and transepts. It functions as a sort of natural lantern as the light shines into the transept from the tower. - See more at: http://www.visitgent.be/en/node/8188/?context=tourist#sthash.oFZQTvep.dpuf",
+    "FR_description":"Bâtie en pierres bleues de Tournai, cette église est l’un des plus beaux exemples de gothique scaldien. Sa tour quadrangulaire, qui surplombe non pas l’entrée mais la croisée de la nef principale et des nefs latérales, est tout simplement unique. Elle fait office de lanterne naturelle car la lumière pénètre directement dans le transept. - See more at: http://www.visitgent.be/fr/node/7422/?context=tourist#sthash.oVd7wt5E.dpuf",
     "image_link":"http://www.sintniklaaskerk.be/media/photos/560/021f552775075dd9e053e30072ea21045d628ef3.jpg"
   },
   {
@@ -18,33 +18,217 @@
     "FR_name":"KorenMarkt",
     "lat":51.053952,
     "lon": 3.722196,
-    "NL_description":" korenmartk nl",
-    "ENG_description":" eng kornemakrt",
-    "FR_description":" fr mqlksdjfm",
+    "NL_description":"Twintig jaar geleden zaten Gentenaars hier nog tussen de geparkeerde auto’s, nu is dit het hart van het grootste autoluwe winkelwandelgebied van Europa. Het voormalige postgebouw uit 1909 werd omgevormd tot een winkelcentrum. De gevel is overvloedig versierd met beelden en wapenschilden. Let ook op de fraaie torenklok. - See more at: http://www.visitgent.be/nl/node/11887/?context=tourist#sthash.cxeDzpSW.dpuf",
+    "ENG_description":"Twenty years ago this square was a car park. Today it is the heart of the largest pedestrianised shopping area in Europe. The former post office building from 1909, with its façade that is ornately decorated with statues and coats of arms - was turned into a shopping centre. Don’t forget to look up at the beautiful clock tower. - See more at: http://www.visitgent.be/en/korenmarkt?context=tourist#sthash.RC981RWz.dpuf",
+    "FR_description":"Il y a vingt ans, les Gantois s’asseyaient encore ici entre les voitures stationnées; aujourd’hui, c’est le cœur de la plus grande zone commerciale piétonne d’Europe. L’ancien bâtiment de la poste de 1909 a été transformé en galerie commerciale. La façade regorge de statues et de blasons. Admirez aussi la belle horloge. - See more at: http://www.visitgent.be/fr/node/14192/?context=tourist#sthash.bucIV00p.dpuf",
     "image_link":"http://fideel.files.wordpress.com/2009/08/korenmarkt-ca-1910-2.jpg"
   },
   {
     "id":3,
     "NL_name":"Stadhuis",
     "ENG_name":"Town Hall",
-    "FR_name":" Croissant",
+    "FR_name":"Hôtel de Ville",
     "lat":51.054562,
     "lon": 3.724862,
-    "NL_description":" NL stadhuis",
-    "ENG_description":" eng stadhuis",
-    "FR_description":" fr stadhuis",
+    "NL_description":"Een bloemlezing van de bouwkunst van de 15de tot de 18de eeuw. De vlammende gotiek van de gevel in de Hoogpoort contrasteert fel met de sobere renaissance van die aan de Botermarkt.
+
+In de Trouwkapel met de prachtige brandglasramen geven Gentenaars elkaar het jawoord.
+
+- See more at: http://www.visitgent.be/nl/stadhuis?context=tourist#sthash.MACHB9r3.dpuf",
+    "ENG_description":"Ghent’s town hall is a building with many faces. The flamboyant Gothic style of the façade in Hoogpoort contrasts sharply with the rather sober Renaissance style of the Botermarkt side.
+
+You can also see many different styles inside the building: the Arsenal Hall with its wooden vaulting, the marvellous Wedding Chapel with the counts of Flanders immortalised in stained glass windows, the Pacification Hall with its white and black paved labyrinth, a symbol of the quest for justice and happiness, and many more.
+
+- See more at: http://www.visitgent.be/en/node/8190/?context=tourist#sthash.PJSOcJcc.dpuf",
+    "FR_description":"L’Hôtel de Ville de Gand est un bâtiment aux nombreuses facettes. Le style gothique flamboyant de la façade qui donne dans la Hoogpoort contraste vivement avec le style renaissance plutôt sobre de celle du Botermarkt.
+
+À l’intérieur, vous faites aussi connaissance avec nombre de styles différents: la Salle de l’Arsenal et sa voûte en bois, la magnifique Chapelle de mariage et ses six vitraux représentant les comtes de Flandre, la Salle de Pacification et son labyrinthe de carrelages blancs et noirs, symbole de la quête de la justice et du bonheur, etc.
+
+- See more at: http://www.visitgent.be/fr/node/7424/?context=tourist#sthash.zfQ17R3c.dpuf",
     "image_link":"http://upload.wikimedia.org/wikipedia/commons/2/2c/Gent_stadhuis_belfort_1890-1900.jpg"
   },
   {
     "id":4,
     "NL_name":"Haven",
     "ENG_name":"Port",
-    "FR_name":"Fromage",
+    "FR_name":"Port de Gand",
     "lat":51.105873,
     "lon":3.740172,
-    "NL_description":"Haven",
-    "ENG_description":"Port",
-    "FR_description":"Fromage du bateau",
+    "NL_description":"De haven van Gent is een zeehaven in de Belgische stad Gent. De haven is 32 kilometer lang en strekt zich uit over de zuidkant van de beide oevers van het kanaal Gent-Terneuzen. Het gebied beslaat een oppervlakte van 3.291 ha (2007). Het kanaal en de dokken beslaan 511 ha; 2.780 ha wordt ingenomen door terreinen. Het Havenbedrijf Gent beheert de haven. De haven wordt vooral gebruikt voor laden en lossen van losse goederen. Twee derde van het verkeer is afkomstig van de staalnijverheid.
+
+Anno 2011 verschaft de haven werkgelegenheid voor 78 000 mensen.
+
+De haven bevindt zich ten noorden van het stadscentrum. De haven ligt wel op het grondgebied van de hoofdgemeente, dat zich vele kilometers noordwaarts langs het kanaal uitstrekt om de haven te omvatten. Schepen bereiken de haven via de Westerschelde en varen via Terneuzen in Nederland het kanaal op, langs Zelzate in België naar Gent. Langs de haven zijn diverse grote bedrijven gevestigd, zoals ArcelorMittal Gent (oude naam: Sidmar (Sidérurgie Maritime)) en Volvo Cars.",
+    "ENG_description":"The port of Ghent is the third biggest port in Belgium. The first port of Ghent was situated at the Scheldt river and later on at the Lys river. Since the Middle Ages Ghent has sought for a connection to the sea. In the 13th century via the Lieve canal to the Zwin near Damme, in the 16th century via the Sassevaart, in the 17th century via the Ghent-Bruges Canal. Since the 19th century by the Ghent-Terneuzen Canal which connects via the Western Scheldt to the North Sea.[1] The port of Ghent is accessible by ships of the Panamax size. There are however talks to renew the locks in Terneuzen, which would enable bigger ships to enter the harbour.",
+    "FR_description":"Le port de Gand (néerlandais : Haven van Gent) est le troisième plus grand port de Belgique2. Situé au nord de la ville de Gand, il est accessible par le Canal Gand-Terneuzen qui rejoint la Mer du Nord, au niveau du port néerlandais de Terneuzen, sur l'Escaut occidental. Le canal ainsi que le port sont accessibles aux navires jusqu’à 80 000 tonnes et au tirant d’eau de 12,5 m3. En 2006, le trafic de marchandises a atteint 45,2 millions de tonnes, dont 24,2 millions en fret international et 18,4 millions en navigation intérieure",
     "image_link":"http://www.logistiek.be/wp-content/uploads/2012/07/haven-Gent-460x250.jpg"
+  },
+  {
+    "id":5,
+    "NL_name":"Sint-Jacobskerk",
+    "ENG_name":"St James' Church",
+    "FR_name":"Église Saint-Jacques",
+    "lat":51.056516,
+    "lon":3.727679,
+    "NL_description":"Op deze plaats (anno 2010 bij St. Jacobs genoemd) werd in 1093 een eerste houten kerk gebouwd, toegewijd aan de heilige Jacobus. Hoogstwaarschijnlijk had de bouw ervan te maken met de komst van pelgrims tijdens hun tocht op de Camino de Santiago. Het was de oudste kerk in de Zeventien Provinciën die aan hem was toegewijd. Het gebouw werd verwoest door troepen van Robert Curthose. Ze werd vervangen door een gebouw uit hout en steen.
+
+Een nieuwe romaanse kerk werd gebouwd waarvan de kern stamt uit de periode na 1120. Het is de oudste romaanse kerk in België met een dubbele westertoren, hoewel al eerder een onvoltooid gebleven tweetorenfaçade bij de kathedraal van Doornik was begonnen. Uit de romaanse periode resten verder nog de pijlers van het transept. De achtkantige vieringtoren uit de 13e eeuw is opgetrokken in de stijl van de Scheldegotiek. In de 14e eeuw breidde men de kerk uit met zijkapellen voor de gilden.
+
+Op het einde van de 15e eeuw kreeg een van de torens een gotische spits in Balegemse steen. Het interieur had erg te lijden van de bekende godsdiensttroebelen in de 16e eeuw: de Beeldenstorm en lokaal van de Gentse republikeinen. Herstellingen werden uitgevoerd in barokke stijl. Latere restauraties, in de 18e en 19e eeuw, zorgden voor een niet coherent geheel.
+
+In de kerk staat het praalgraf van de verloskundige Jan Palfijn. Ze bevat schilderijen van Gaspar de Crayer.",
+    "ENG_description":"The two towers still date from the Romanesque period, but since then the church has undergone much devastation, expansion and renovation. The square around it, called Bij Sint-Jacobs, and the Trefpunt café are the true epicentre of the world-famous Ghent Festivities, the annual people’s festival in mid-July which really signals the beginning of summer in Ghent. - See more at: http://www.visitgent.be/en/node/8185/?from_category=3933&context=tourist#sthash.Fb1qrOzL.dpuf",
+    "FR_description":"Les deux tours datent encore de la période romane, mais l’église a depuis lors subi nombre de destructions, extensions et transformations. La place Bij Sint-Jacobs et le café Trefpunt sont le véritable épicentre des mondialement célèbres Fêtes de Gand, la fête populaire annuelle qui donne le vrai coup d’envoi de l’été à Gand à la mi-juillet. - See more at: http://www.visitgent.be/fr/node/7419/?from_category=3933&context=tourist#sthash.SqjQBMbC.dpuf",
+    "image_link":"http://upload.wikimedia.org/wikipedia/commons/5/54/Sint-Jacobskerk_%28Gent%29_22-08-2010_11-50-25.jpg"
+  },
+  {
+    "id":6,
+    "NL_name":"Sint-Baafskathedraal",
+    "ENG_name":"St Bavo's Cathedral",
+    "FR_name":"Cathédrale Saint-Bavon",
+    "lat":51.052947,
+    "lon":3.727070,
+    "NL_description":"Toen keizer Karel er in 1500 gedoopt werd, was de metamorfose van een besloten romaanse naar een ruime gotische kerk nog volop aan de gang. Ondanks substantiële financiële steun van de keizer bleef de kathedraal ook 58 jaar later nog onvoltooid. Hierdoor kon er voor de overleden vorst geen lijkdienst plaatsvinden.
+
+Vandaag is van de oorspronkelijke romaanse kerk alleen de crypte bewaard gebleven. Het aantal kunstschatten in de Sint-Baafskathedraal is indrukwekkend: het barokke hoogaltaar in witzwart en rood gevlamd marmer; de rococopreekstoel in eik, verguld hout en marmer; een topwerk van Rubens; de Calvarietriptiek, toegeschreven aan Joos van Wassenhove (alias Justus van Gent); praalgraven van Gentse bisschoppen enz. Toch steekt één werk er bovenuit: het wereldberoemde 'De Aanbidding van het Lam Gods' van Hubert en Jan van Eyck uit 1432.
+
+Wie tijdens de Gentse Feesten (rond 21 juli) de 444 treden in de toren trotseert, wordt beloond met een uniek uitzicht over de stad.
+
+Restauratie van de Sint-Baafskathedraal
+
+Sinds de lente van 2013 staat de toren van de Sint-Baafskathedraal in de steigers voor een grondige opknapbeurt. Vooral de toren en vier glasramen worden onder handen genomen. De toren wordt daarna ook nog gereinigd. De werken zullen van boven naar beneden verlopen en de steigers zullen worden afgebouwd van zodra een gedeelte is afgewerkt. Maar dat zal nog even op zich laten wachten, aangezien de restauratie maar liefst vier jaar zal duren.
+
+- See more at: http://www.visitgent.be/nl/sint-baafskathedraal-1?context=tourist#sthash.R2u8PaxQ.dpuf",
+    "ENG_description":"When Charles V was baptised there in 1500, the metamorphosis from a closed Romanesque church to a spacious Gothic one was fully underway. However, despite substantial financial support from the emperor, the cathedral still remained unfinished 58 years later. As a result, the funeral service for the deceased sovereign could not take place there.
+
+All that remains of the original Romanesque church is the crypt. St. Bavo’s Cathedral houses an impressive number of art treasures: the baroque high altar in white, black and red flamed marble, the rococo pulpit in oak, gilded wood and marble, a major work by Rubens, the ‘Calvary Triptych’, attributed to Joos van Wassenhove, alias Justus van Gent, tombs of the Ghent bishops, and much more. However, one work stands out head and shoulders above the rest: the world-famous Adoration of the Mystic Lamb painted by Hubert and Jan van Eyck around 1432.
+
+If you’re brave enough to walk the 444 steps of the tower, you’ll be rewarded with a unique view of the city.
+
+Restoration of St Bavo’s Cathedral
+
+Since the spring of 2013, the tower of the Saint Bavo Cathedral has been under scaffolding, undergoing a major overhaul. The tower and four stained glass windows are top of the list. The works will be carried out from top to bottom and the scaffolding will be taken down as soon as a section has been completed. But that will be some time in coming, because the restoration works won’t be over for at least four years.
+
+- See more at: http://www.visitgent.be/en/node/8184/?context=tourist#sthash.oMhsgjag.dpuf",
+    "FR_description":"Lors du baptême de Charles Quint en 1500, la transformation de cette église résolument romane en grande cathédrale gotique battait encore son plein. Malgré l’important soutien financier de l’empereur, la cathédrale était encore inachevée 58 ans plus tard. Aucun service funèbre n’a donc pu y être organisé pour le souverain décédé.
+
+Aujourd’hui, seule la crypte subsiste de l’église romane initiale. Le nombre de trésors artistiques que recèle la Cathédrale Saint-Bavon est impressionnant: le maître-autel baroque en marbre moiré de noiret blanc et de rouge, la chaire rococo en chêne, bois doré et marbre, une magnifique œuvre de Rubens, le triptyque du Calvaire attribué à Joos van Wassenhove, alias Juste de Gand, des mausolées d’évêques gantois, etc. Cependant, l’une de ces oeuvres se détache: le mondialement célèbre Agneau mystique d’Hubert et Jan van Eyck datant de 1432.
+
+Ceux qui ont le courage de monter les 444 marches de la tour sont récompensés par une vue unique sur la ville.
+
+Restauration de la cathédrale Saint-Bavon
+
+Depuis le printemps 2013, la tour de la Cathédrale Saint-Bavon est en chantier pour se refaire une beauté. L’édifice s’apprête en effet à subir une restauration en profondeur. Les travaux concerneront surtout les tours et quatre vitraux. Ils se dérouleront du haut vers le bas et les échafaudages seront démontés dès qu’une partie sera terminée. Il faudra cependant faire preuve de patience, car la restauration s’étendra sur une durée de quatre ans.
+
+- See more at: http://www.visitgent.be/fr/node/7418/?context=tourist#sthash.N7MpuZP6.dpuf",
+    "image_link":"http://www.slimweg.be/images/Sint-Baafskathedraal_tcm9-24894.jpg"
+  },
+  {
+    "id":7,
+    "NL_name":"Koninklijke Nederlandse Schouwburg (NTGent)",
+    "ENG_name":"Royal Dutch Theatre (NTGent)",
+    "FR_name":"Fromage",
+    "lat":51.053514, 
+    "lon":3.725784,
+    "NL_description":"Het Gentse stadstheater is een huis van spelers. Toneel uit noodzaak, klassiek of eigentijds, altijd door goesting gedreven, in een gebouw vol traditie. Daarvoor staat artistiek leider Wim Opbrouck garant. Op het fraaie terras van de foyer geniet je net als Apollo en zijn muzen van het prachtige Sint-Baafsplein. In de T-Bar is iedereen welkom voor een pint of een koffie en gratis gebruik van het internet. - See more at: http://www.visitgent.be/nl/koninklijke-nederlandse-schouwburg?context=tourist#sthash.UBa0aX6o.dpuf",
+    "ENG_description":"At the municipal theatre you can enjoy plays – both classic and contemporary – performed by passionate actors in a building that breathes tradition. That's what Wim Opbrouck, the artistic director, stands for. On the terrace of the foyer you’ll enjoy a breathtaking view of Sint-Baafsplein, just like Apollo and his muses. The T-Bar welcomes you for a pint or a coffee and free internet access. - See more at: http://www.visitgent.be/en/node/8153/?context=tourist#sthash.Xl2MV8mD.dpuf",
+    "FR_description":"Le théâtre municipal est une maison d’acteurs. Du théâtre par nécessité, classique ou contemporain, toujours mû par l’envie, dans un bâtiment plein de traditions. Wim Opbrouck, directeur artistique s'en porte garant. De la terrasse du foyer, vous jouissez, tout comme Apollon et ses muses, d’une belle vue sur la Sint-Baafsplein. Le T-Bar est ouvert à tous pour une bière ou un café et pour surfer gratuitement sur Internet. - See more at: http://www.visitgent.be/fr/node/7386/?context=tourist#sthash.NcDHUf9w.dpuf",
+    "image_link":"http://nl.wikipedia.org/wiki/NTGent#mediaviewer/Bestand:NTG_24-06-2008_11-42-13.JPG"
+  },
+  {
+    "id":8,
+    "NL_name":"Sint Pietersabdij",
+    "ENG_name":"St Peter's Abbey",
+    "FR_name":"Abbaye Saint-Pierre",
+    "lat":51.042136,
+    "lon":3.726720,
+    "NL_description":"De reftervleugel van de Sint-Pietersabdij is authentiek middeleeuws. De prachtige tuin met wijngaard en ruïne is een groene oase in de stad. In Sint-Pietersabdij vinden elk jaar prestigieuze tentoonstellingen met internationale uitstraling plaats. 
+
+Je kunt de abdij bezoeken met de unieke movieguide 'Alison'.
+
+De gelijkvloerse verdieping van de Sint-Pietersabdij is gratis te bezichtigen (pandgangen en pandhof, de permanente opstelling Tussen Hemel & Aarde en de tuin van de abdij).",
+    "ENG_description":"The refectory wing of St Peter’s Abbey is authentically medieval. The splendid garden with its vineyard and ruins is a green oasis in the heart of the city.
+
+The St Peter’s Abbey holds prestigious internationally-oriented exhibitions every year. You can visit the abbey with a unique movie guide.",
+    "FR_description":"Jadis résonnaient ici les murmures des moines et le crissement des plumes d’oie.
+
+L’atmosphère sacrée des lieux continue de régner dans l’authentique réfectoire du Moyen-âge et entre les sarments du vignoble fertile. Un moine numérique vous emmène en reconnaissance de ce monument unique, qui abrite de prestigieuses expositions aux échos internationaux.
+
+- See more at: http://www.visitgent.be/fr/node/7390/?context=tourist#sthash.OW9c5FlN.dpuf",
+    "image_link":"http://www.logistiek.be/wp-content/uploads/2012/07/haven-Gent-460x250.jpg"
+  },
+  {
+    "id":9,
+    "NL_name":"KBC Arteveldetoren",
+    "ENG_name":"KBC Arteveldetower",
+    "FR_name":"KBC Arteveldetour",
+    "lat":51.021421,
+    "lon":3.686722,
+    "NL_description":"De Arteveldetoren (officieel: KBC Arteveldetoren) is een kantoorgebouw in de Belgische stad Gent. De toren is met zijn 118,5 meter meteen het hoogste gebouw van Gent en het hoogste kantoorgebouw van het Vlaamse Gewest. Hij wordt de regionale hoofdzetel van de bankverzekeraar KBC. De eerste spadesteek kwam er in maart 2010, het hoogste punt werd begin juli 2011 bereikt. Het gebouw werd officieel ingehuldigd op 20 april 2012.",
+    "ENG_description":"KBC TOUR",
+    "FR_description":"CROISSANT CROISSANT",
+    "image_link":"http://www.theon.be/sites/default/files/imagecache/940x300/Theon---Arteveldetoren---2013.png"
+  },
+  {
+    "id":10,
+    "NL_name":"Boekentoren",
+    "ENG_name":"Book Tower",
+    "FR_name":"Tour des Livres",
+    "lat":51.044974,
+    "lon": 3.725244,
+    "NL_description":"De vierde toren van Gent is een modernistisch meesterwerk van de Belgische architect Henry Van de Velde. Het 64 meter hoge betonnen gebouw telt 24 verdiepingen. Het was van in het begin als universiteitsbibliotheek geconcipieerd en vervult tot op vandaag die rol. Meer dan drie miljoen boeken vinden er onderdak. - See more at: http://www.visitgent.be/nl/boekentoren?context=tourist#sthash.C8GWl6vZ.dpuf",
+    "ENG_description":"Ghent’s fourth tower is a modernist masterpiece by the Belgian architect Henry Van de Velde. The 64-metre concrete building has 24 floors that house more than 2 million books. It was initially conceived as a university library and fulfils that same role to this day. - See more at: http://www.visitgent.be/en/node/8124/?context=tourist#sthash.bZNE2Qo0.dpuf",
+    "FR_description":"La quatrième tour de Gand est un chef-d’œuvre moderniste de l’architecte belge Henry Van de Velde, conçu en 1933. Cette tour de béton haute de 64 mètres compte 24 étages et héberge plus de 3 millions de livres. Seule la salle de lecture est accessible aux visiteurs. - See more at: http://www.visitgent.be/fr/node/7357/?context=tourist#sthash.ooAmfMn8.dpuf",
+    "image_link":"http://home.scarlet.be/architectuur/boekentoren/boekentoren41.jpg"
   }
+Stadshal
+,
+  {
+    "id":11,
+    "NL_name":"Stadshal",
+    "ENG_name":"Hall of Ghent",
+    "FR_name":"Halle de Gand",
+    "lat":51.053944,
+    "lon":3.724472,
+    "NL_description":"De Stadshal maakt deel uit van het KoBra-project, een grondige heraanleg van de Gentse pleinen en openbare ruimtes van het historische centrum. Het omvat onder andere de heraanleg van de Korenmarkt en het Emile Braunplein. Het masterplan werd ontworpen door Robbrecht & Daem - Marie-José Van Hee architecten en de uitvoering ervan is voorzien voor 2009-2012.
+
+De hal overkapt een deel van de publieke ruimte tussen het nieuwe Emile Braunparkje en de Poeljemarkt naast het stadhuis van Gent. In een ondergrondse verdieping, onder de plek waar de hal staat, bevinden zich een brasserie, publiek sanitair, artiestenloges en een fietsenstalling voor zo'n 200 fietsen.
+
+De overkapping bestaat uit een stalen constructie die op 4 betonnen sokkels rust, die 40 meter overspant. Deze sokkels bevatten 2 liften en leidingkokers naar de ondergrondse verdieping. De overkapping zelf is bedekt met een afwerking van Afrormosia-hout, dat na verloop van tijd zal vergrijzen. In het dak zitten 1 600 kleine raampjes zitten, die zorgen voor een dynamische lichtinval",
+    "ENG_description":"Port",
+    "FR_description":"La halle est érigée sur la nouvelle Emile Braunplein (place Émile Braun) dans la Poeljemarkt, dans le centre historique de Gand. L'hôtel de ville se situe immédiatement au nord, l'église Saint-Nicolas à l'ouest et le beffroi à l'est. Il s'agit d'une grande structure d'une quarantaine de mètres de long, constituée d'un toit en bois reposant à chaque coin sur un pilier de béton, permettant ainsi d'être ouverte et accessible de tous les côtés.
+
+Le toit est asymétrique ; sa forme à deux pignons fait référence à celle de l'hôtel de ville tout proche. Il est constitué d'une structure d'acier recouverte d'une finition en afrormosia (en), elle même protégée par une enveloppe de verre1,2. Il comporte 1 600 petites fenêtres, donnant à l'ensemble un éclairage dynamique3.
+
+Le sous-sol de la halle est occupé par une brasserie, des toilettes, des vestiaires et un parc pour environ 200 vélos. L'Emile Braunplein comprend également la fontaine des Agenouillés, œuvre du sculpteur George Minne, et la Klokke Roeland (nl), une ancienne cloche du beffroi, exposée sur un socle de béton.",
+    "image_link":"http://www.infosteel.be/cca12/a001b.jpg"
+  },
+  {
+    "id":12,
+    "NL_name":"Sint-Michielskerk",
+    "ENG_name":"St Michael's Church",
+    "FR_name":"Église Saint-Michel",
+    "lat":51.053489,
+    "lon":3.719760,
+    "NL_description":"De spits van de Sint-Michielskerk had hoog boven alle andere moeten uitsteken, maar de geschiedenis heeft er anders over beslist: het geplande 134 meter hoge 'monument van de zegepraal' is op een schamele 24 meter blijven steken. In 1828 kreeg de onafgewerkte toren definitief een plat dak. 
+
+In de kerk bevinden zich talrijke schilderijen en beelden van bekende meesters, onder meer 'Christus aan het kruis' van Antoon Van Dyck.
+
+- See more at: http://www.visitgent.be/nl/sint-michielskerk?from_category=3334&context=tourist#sthash.rGVuUPju.dpuf",
+    "ENG_description":"The steeple of St Michael’s Church should have stood out above all the others, but history decided otherwise: the 134 metre high planned ‘monument of triumph’, has remained at a paltry 24 metres. In 1828, the unfinished tower finally acquired a closed roof. The church contains numerous paintings and sculptures by famous masters, including ‘Christ on the Cross’ by Anthony Van Dyck. - See more at: http://www.visitgent.be/en/node/8187/?from_category=3334&context=tourist#sthash.fOTBhDx6.dpuf",
+    "FR_description":"La flèche de l’église Saint-Michel aurait dû dépasser toutes les autres, mais l’histoire en a décidé autrement: c’est en effet le prétendu ‘monument de la victoire’ de 134 mètres qui culmine, à 24 mètres seulement. En 1828, la tour inachevée a hérité définitivement d’un toit plat. L’église abrite de nombreuses œuvres de maîtres connus, dont ‘Le Christ en croix’ d’Antoon Van Dyck. - See more at: http://www.visitgent.be/fr/node/7421/?from_category=3334&context=tourist#sthash.TRHcHKdP.dpuf",
+    "image_link":"http://home.scarlet.be/~par2092/images/S_SM.jpg"
+  },
+  {
+    "id":13,
+    "NL_name":"Oud postgebouw",
+    "ENG_name":"Former Post Office",
+    "FR_name":"Ancien bâtiment des postes",
+    "lat":51.05425, 
+    "lon":3.721211,
+    "NL_description":"Zodra de eerste zonnestralen de lente aankondigen, worden op de Korenmarkt de terrasjes buitengezet. In het voormalige postgebouw, met zijn mooie torenklok, is nu een winkelcentrum ingericht. - See more at: http://www.visitgent.be/nl/voormalig-postgebouw?context=tourist#sthash.wuhEGyof.dpuf",
+    "ENG_description":"As soon as the first rays of sunshine announce the arrival of spring, the pavement cafés start appearing on the Korenmarkt. The former post office, with its beautiful clock tower, now houses a shopping centre - See more at: http://www.visitgent.be/en/node/8108/?context=tourist#sthash.plbRNcu5.dpuf",
+    "FR_description":"Dès que les premiers rayons de soleil annoncent le printemps, les terrasses envahissent le Korenmarkt. L’ancien bâtiment des postes, avec sa belle horloge, abrite aujourd’hui un centre commercial. - See more at: http://www.visitgent.be/fr/node/7432/?context=tourist#sthash.UdpJNLqU.dpuf",
+    "image_link":"http://nl.wikipedia.org/wiki/Oud_Postkantoor_(Gent)#mediaviewer/Bestand:Gent_Korenmarkt_Oud_Postkantoor_9-11-2010_16-28-56.JPG"
+  }   
 ]
