@@ -9,9 +9,7 @@ The application fetches the information in poi.json the first time it's started 
 
 Adding data
 ===========
-Adding a building to the list is easy.
-Paste this template under the last entry and fill in the data between <>s [Remove the hooks too!].
-
+Adding a building to the list is easy. Click poi.json in the list above, click edit in the top right corner  and paste this template under the last entry, before the last ], and fill in the data between <>s [Remove the hooks too!].
 
     ,
      {
