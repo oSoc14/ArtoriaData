@@ -17,17 +17,17 @@ Adding a building to the list is easy. Click poi.json in the list above, click e
 
     ,
      {
-    "id":\<NEXT NUMBER>,
-    "NL_name":"\<DUTCH NAME>",
-    "ENG_name":"\<ENGLISH NAME>",
-    "FR_name":"\<FRENCH NAME>",
-    "lat":\<Latitude>,
-    "lon"\:<Longtitude>,
-    "height": \<HEIGHT>,
-    "NL_description":"\<DUTCH DESCRIPTION HERE>",
-    "ENG_description":"\<ENGLISH DESCRIPTION HERE>",
-    "FR_description":"\<FRENCH DESCRIPTION HERE> ", 
-    "image_link":"\<Top image here with http://, Bigger images are better! they should be atleast 400p, >"
+    "id":<NEXT NUMBER>,
+    "NL_name":"<DUTCH NAME>",
+    "ENG_name":<<ENGLISH NAME>",
+    "FR_name":"<FRENCH NAME>",
+    "lat":<Latitude>,
+    "lon":<Longtitude>,
+    "height":<HEIGHT>,
+    "NL_description":"<DUTCH DESCRIPTION HERE>",
+    "ENG_description":"<ENGLISH DESCRIPTION HERE>",
+    "FR_description":"<FRENCH DESCRIPTION HERE> ", 
+    "image_link":"<Top image here with http://, Bigger images are better! they should be atleast 400p >"
     }
 
 Validating data
