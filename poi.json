@@ -1,18 +1,5 @@
 [
-  {
-    "id":10,
-    "NL_name":"Sint-Niklaaskerk ",
-    "ENG_name":"St. Nicholas' Church",
-    "FR_name":"Église Saint-Nicolas",
-    "lat": 51.053939,
-    "lon": 3.722958,
-    "height": 5,
-    "NL_description":"Hoewel al in 1100 op deze plek een kerk werd gebouwd, dateert het huidige bouwwerk uit 1250. Het was de kerk van de handelaars en de rijke kooplieden, maar desondanks verviel zowel het interieur als het exterieur van de kerk enorm doorheen de jaren. In de 19de eeuw was de Sint-Niklaaskerk in zo'n slechte staat dat stemmen opgingen om ze volledig met de grond gelijk te maken. Dat gebeurde toen gelukkig niet, anders was er van het bekende panorama met de drie torens geen sprake. Sindsdien is de geschiedenis van de kerk eigenlijk een geschiedenis van langdurige restauraties. Tegen 2018 zouden die eindelijk achter de rug moeten zijn en is de Sint-Niklaaskerk voor het eerst sinds lang in volle glorie te bewonderen.",
-    "ENG_description":"This church in Tournai bluestone is one of the most beautiful examples of the Scheldt Gothic style. One of its unique elements is that the tower is not above the entrance, but above the crossing of the nave and transepts. It functions as a sort of natural lantern as the light shines into the transept from the tower.",
-    "FR_description":"Bâtie en pierres bleues de Tournai, cette église est l’un des plus beaux exemples de gothique scaldien. Sa tour quadrangulaire, qui surplombe non pas l’entrée mais la croisée de la nef principale et des nefs latérales, est tout simplement unique. Elle fait office de lanterne naturelle car la lumière pénètre directement dans le transept.",
-    "image_link":"http://www.sintniklaaskerk.be/media/photos/560/021f552775075dd9e053e30072ea21045d628ef3.jpg"
-  },
-  {
+    {
     "id":0,
     "NL_name":"Stadhuis",
     "ENG_name":"Town Hall",
@@ -78,6 +65,19 @@
     "image_link":"http://nl.wikipedia.org/wiki/NTGent#mediaviewer/Bestand:NTG_24-06-2008_11-42-13.JPG"
   },
   {
+    "id":5,
+    "NL_name":"Jan-Frans Willemsmonument",
+    "ENG_name":"Statue of Jan-Frans Willems",
+    "FR_name":"Jan-Frans Willems monument",
+    "lat":51.053360,
+    "lon":3.725569,
+    "height": 5,
+    "NL_description":"Dit monument werd, net als de tegenoverliggende Gentse stadsschouwburg, opgetrokken en ingewijd in 1899. Het is opgedragen aan Jan-Frans Willems, een spilfiguur in de flamingantische beweging van de 19de eeuw die veel betekende voor het toenmalige Vlaamse cultuurleven. Zijn erfenis leeft nog steeds verder in het Willemsfonds, een culturele vereniging die Willems als geestelijk vader beschouwt. Wie benieuwd is hoe hij eruit zag: aan de voorkant van dit monument is hij geportretteerd op een herdenkingsmedaillon.",
+    "ENG_description":"The steeple of St Michael’s Church should have stood out above all the others, but history decided otherwise: the 134 metre high planned ‘monument of triumph’, has remained at a paltry 24 metres. In 1828, the unfinished tower finally acquired a closed roof. The church contains numerous paintings and sculptures by famous masters, including ‘Christ on the Cross’ by Anthony Van Dyck.  ",
+    "FR_description":"La flèche de l’église Saint-Michel aurait dû dépasser toutes les autres, mais l’histoire en a décidé autrement: c’est en effet le prétendu ‘monument de la victoire’ de 134 mètres qui culmine, à 24 mètres seulement. En 1828, la tour inachevée a hérité définitivement d’un toit plat. L’église abrite de nombreuses œuvres de maîtres connus, dont ‘Le Christ en croix’ d’Antoon Van Dyck.  ",
+    "image_link":"http://www.visitgent.be/sites/default/files/styles/727x310_detailpage/public/images-spot/jan_frans_willems.jpg"
+  },
+  {
     "id":6,
     "NL_name":"Sint-Pietersabdij",
     "ENG_name":"St Peter's Abbey",
@@ -89,19 +89,6 @@
     "ENG_description":"The refectory wing of St Peter’s Abbey is authentically medieval. The splendid garden with its vineyard and ruins is a green oasis in the heart of the city.\nThe St Peter’s Abbey holds prestigious internationally-oriented exhibitions every year. You can visit the abbey with a unique movie guide.",
     "FR_description":"Jadis résonnaient ici les murmures des moines et le crissement des plumes d’oie.\nL’atmosphère sacrée des lieux continue de régner dans l’authentique réfectoire du Moyen-âge et entre les sarments du vignoble fertile. Un moine numérique vous emmène en reconnaissance de ce monument unique, qui abrite de prestigieuses expositions aux échos internationaux.",
     "image_link":"http://www.logistiek.be/wp-content/uploads/2012/07/haven-Gent-460x250.jpg"
-  },
-  {
-    "id":8,
-    "NL_name":"KBC Arteveldetoren",
-    "ENG_name":"KBC Arteveldetower",
-    "FR_name":"KBC Arteveldetour",
-    "lat":51.021421,
-    "lon":3.686722,
-    "height": 5,
-    "NL_description":"De meest recente toevoeging aan de Gentse skyline. In 2010 werd begonnen met de bouw van een nieuw kantoorgebouw voor bankengroep KBC en in 2012 werd het gebouw al ingehuldigd. Het resultaat van die bouwwoede is een wolkenkrabber van maar liefst 118,5 meter hoog, wat hem bombardeert tot het hoogste gebouw in Gent en omgeving. Over de schoonheid van de toren lopen de meningen sterk uiteen, maar dat hij stevig opvalt staat vast.",
-    "ENG_description":"KBC TOUR",
-    "FR_description":"CROISSANT CROISSANT",
-    "image_link":"http://www.theon.be/sites/default/files/imagecache/940x300/Theon---Arteveldetoren---2013.png"
   },
   {
     "id":7,
@@ -117,6 +104,19 @@
     "image_link":"http://home.scarlet.be/architectuur/boekentoren/boekentoren41.jpg"
   },
   {
+    "id":8,
+    "NL_name":"KBC Arteveldetoren",
+    "ENG_name":"KBC Arteveldetower",
+    "FR_name":"KBC Arteveldetour",
+    "lat":51.021421,
+    "lon":3.686722,
+    "height": 5,
+    "NL_description":"De meest recente toevoeging aan de Gentse skyline. In 2010 werd begonnen met de bouw van een nieuw kantoorgebouw voor bankengroep KBC en in 2012 werd het gebouw al ingehuldigd. Het resultaat van die bouwwoede is een wolkenkrabber van maar liefst 118,5 meter hoog, wat hem bombardeert tot het hoogste gebouw in Gent en omgeving. Over de schoonheid van de toren lopen de meningen sterk uiteen, maar dat hij stevig opvalt staat vast.",
+    "ENG_description":"KBC TOUR",
+    "FR_description":"CROISSANT CROISSANT",
+    "image_link":"http://www.theon.be/sites/default/files/imagecache/940x300/Theon---Arteveldetoren---2013.png"
+  },
+  {
     "id":9,
     "NL_name":"Stadshal",
     "ENG_name":"Hall of Ghent",
@@ -130,17 +130,17 @@
     "image_link":"http://www.infosteel.be/cca12/a001b.jpg"
   },
   {
-    "id":5,
-    "NL_name":"Jan-Frans Willemsmonument",
-    "ENG_name":"Statue of Jan-Frans Willems",
-    "FR_name":"Jan-Frans Willems monument",
-    "lat":51.053360,
-    "lon":3.725569,
+    "id":10,
+    "NL_name":"Sint-Niklaaskerk ",
+    "ENG_name":"St. Nicholas' Church",
+    "FR_name":"Église Saint-Nicolas",
+    "lat": 51.053939,
+    "lon": 3.722958,
     "height": 5,
-    "NL_description":"Dit monument werd, net als de tegenoverliggende Gentse stadsschouwburg, opgetrokken en ingewijd in 1899. Het is opgedragen aan Jan-Frans Willems, een spilfiguur in de flamingantische beweging van de 19de eeuw die veel betekende voor het toenmalige Vlaamse cultuurleven. Zijn erfenis leeft nog steeds verder in het Willemsfonds, een culturele vereniging die Willems als geestelijk vader beschouwt. Wie benieuwd is hoe hij eruit zag: aan de voorkant van dit monument is hij geportretteerd op een herdenkingsmedaillon.",
-    "ENG_description":"The steeple of St Michael’s Church should have stood out above all the others, but history decided otherwise: the 134 metre high planned ‘monument of triumph’, has remained at a paltry 24 metres. In 1828, the unfinished tower finally acquired a closed roof. The church contains numerous paintings and sculptures by famous masters, including ‘Christ on the Cross’ by Anthony Van Dyck.  ",
-    "FR_description":"La flèche de l’église Saint-Michel aurait dû dépasser toutes les autres, mais l’histoire en a décidé autrement: c’est en effet le prétendu ‘monument de la victoire’ de 134 mètres qui culmine, à 24 mètres seulement. En 1828, la tour inachevée a hérité définitivement d’un toit plat. L’église abrite de nombreuses œuvres de maîtres connus, dont ‘Le Christ en croix’ d’Antoon Van Dyck.  ",
-    "image_link":"http://www.visitgent.be/sites/default/files/styles/727x310_detailpage/public/images-spot/jan_frans_willems.jpg"
+    "NL_description":"Hoewel al in 1100 op deze plek een kerk werd gebouwd, dateert het huidige bouwwerk uit 1250. Het was de kerk van de handelaars en de rijke kooplieden, maar desondanks verviel zowel het interieur als het exterieur van de kerk enorm doorheen de jaren. In de 19de eeuw was de Sint-Niklaaskerk in zo'n slechte staat dat stemmen opgingen om ze volledig met de grond gelijk te maken. Dat gebeurde toen gelukkig niet, anders was er van het bekende panorama met de drie torens geen sprake. Sindsdien is de geschiedenis van de kerk eigenlijk een geschiedenis van langdurige restauraties. Tegen 2018 zouden die eindelijk achter de rug moeten zijn en is de Sint-Niklaaskerk voor het eerst sinds lang in volle glorie te bewonderen.",
+    "ENG_description":"This church in Tournai bluestone is one of the most beautiful examples of the Scheldt Gothic style. One of its unique elements is that the tower is not above the entrance, but above the crossing of the nave and transepts. It functions as a sort of natural lantern as the light shines into the transept from the tower.",
+    "FR_description":"Bâtie en pierres bleues de Tournai, cette église est l’un des plus beaux exemples de gothique scaldien. Sa tour quadrangulaire, qui surplombe non pas l’entrée mais la croisée de la nef principale et des nefs latérales, est tout simplement unique. Elle fait office de lanterne naturelle car la lumière pénètre directement dans le transept.",
+    "image_link":"http://www.sintniklaaskerk.be/media/photos/560/021f552775075dd9e053e30072ea21045d628ef3.jpg"
   },
   {
     "id":11,
