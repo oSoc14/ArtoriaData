@@ -7,6 +7,10 @@ Usage by app
 ===========
 The application fetches the information in poi.json the first time it's started and after that every time the application is used and data in the application is older than 12 hours.
 
+Editing data
+===========
+When you spot typos or would like to update some description click poi.json above, click edit in the top right corner and you can edit the data directly in the webbrowser. After you've finished don't forget to press save!
+
 Adding data
 ===========
 Adding a building to the list is easy. Click poi.json in the list above, click edit in the top right corner  and paste this template under the last entry, before the last ], and fill in the data between <>s [Remove the hooks too!].
