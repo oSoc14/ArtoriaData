@@ -27,7 +27,8 @@ Adding a building to the list is easy. Click poi.json in the list above, click e
     "NL_description":"<DUTCH DESCRIPTION HERE>",
     "ENG_description":"<ENGLISH DESCRIPTION HERE>",
     "FR_description":"<FRENCH DESCRIPTION HERE> ", 
-    "image_link":"<Top image here with http://, Bigger images are better! they should be atleast 400p >"
+    "image_link":"<Top image here with http://, Bigger images are better! they should be atleast 400p >",
+    "type":<1 for a church, 2 for a monument>
     }
 
 Validating data
