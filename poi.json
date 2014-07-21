@@ -11,7 +11,7 @@
     "ENG_description":"Ghent’s town hall is a building with many faces. The flamboyant Gothic style of the façade in Hoogpoort contrasts sharply with the rather sober Renaissance style of the Botermarkt side.\nYou can also see many different styles inside the building: the Arsenal Hall with its wooden vaulting, the marvellous Wedding Chapel with the counts of Flanders immortalised in stained glass windows, the Pacification Hall with its white and black paved labyrinth, a symbol of the quest for justice and happiness, and many more.",
     "FR_description":"L’Hôtel de Ville de Gand est un bâtiment aux nombreuses facettes. Le style gothique flamboyant de la façade qui donne dans la Hoogpoort contraste vivement avec le style renaissance plutôt sobre de celle du Botermarkt.\nÀ l’intérieur, vous faites aussi connaissance avec nombre de styles différents: la Salle de l’Arsenal et sa voûte en bois, la magnifique Chapelle de mariage et ses six vitraux représentant les comtes de Flandre, la Salle de Pacification et son labyrinthe de carrelages blancs et noirs, symbole de la quête de la justice et du bonheur, etc.",
     "image_link":"http://upload.wikimedia.org/wikipedia/commons/2/2c/Gent_stadhuis_belfort_1890-1900.jpg",
-    "type" : 2
+    "type":1
   },
   {
     "id":1,
@@ -25,7 +25,7 @@
     "ENG_description":"The port of Ghent is the third biggest port in Belgium. The first port of Ghent was situated at the Scheldt river and later on at the Lys river. Since the Middle Ages Ghent has sought for a connection to the sea. In the 13th century via the Lieve canal to the Zwin near Damme, in the 16th century via the Sassevaart, in the 17th century via the Ghent-Bruges Canal. Since the 19th century by the Ghent-Terneuzen Canal which connects via the Western Scheldt to the North Sea.[1] The port of Ghent is accessible by ships of the Panamax size. There are however talks to renew the locks in Terneuzen, which would enable bigger ships to enter the harbour.",
     "FR_description":"Le port de Gand (néerlandais : Haven van Gent) est le troisième plus grand port de Belgique2. Situé au nord de la ville de Gand, il est accessible par le Canal Gand-Terneuzen qui rejoint la Mer du Nord, au niveau du port néerlandais de Terneuzen, sur l'Escaut occidental. Le canal ainsi que le port sont accessibles aux navires jusqu’à 80 000 tonnes et au tirant d’eau de 12,5 m3. En 2006, le trafic de marchandises a atteint 45,2 millions de tonnes, dont 24,2 millions en fret international et 18,4 millions en navigation intérieure",
     "image_link":"http://www.logistiek.be/wp-content/uploads/2012/07/haven-Gent-460x250.jpg",
-    "type":2
+    "type":0
   },
   {
     "id":2,
@@ -39,7 +39,7 @@
     "ENG_description":"The two towers still date from the Romanesque period, but since then the church has undergone much devastation, expansion and renovation. The square around it, called Bij Sint-Jacobs, and the Trefpunt café are the true epicentre of the world-famous Ghent Festivities, the annual people’s festival in mid-July which really signals the beginning of summer in Ghent.",
     "FR_description":"Les deux tours datent encore de la période romane, mais l’église a depuis lors subi nombre de destructions, extensions et transformations. La place Bij Sint-Jacobs et le café Trefpunt sont le véritable épicentre des mondialement célèbres Fêtes de Gand, la fête populaire annuelle qui donne le vrai coup d’envoi de l’été à Gand à la mi-juillet.",
     "image_link":"http://www.visitgent.be/sites/default/files/styles/727x310_detailpage/public/images-spot/sintjacobskerk_gent2.jpg?itok=EXc02tcd",
-    "type":1
+    "type":2
   },
   {
     "id":3,
@@ -53,7 +53,7 @@
     "ENG_description":"When Charles V was baptised there in 1500, the metamorphosis from a closed Romanesque church to a spacious Gothic one was fully underway. However, despite substantial financial support from the emperor, the cathedral still remained unfinished 58 years later. As a result, the funeral service for the deceased sovereign could not take place there.\nAll that remains of the original Romanesque church is the crypt. St. Bavo’s Cathedral houses an impressive number of art treasures: the baroque high altar in white, black and red flamed marble, the rococo pulpit in oak, gilded wood and marble, a major work by Rubens, the ‘Calvary Triptych’, attributed to Joos van Wassenhove, alias Justus van Gent, tombs of the Ghent bishops, and much more. However, one work stands out head and shoulders above the rest: the world-famous Adoration of the Mystic Lamb painted by Hubert and Jan van Eyck around 1432.\nIf you’re brave enough to walk the 444 steps of the tower, you’ll be rewarded with a unique view of the city.\nRestoration of St Bavo’s Cathedral\nSince the spring of 2013, the tower of the Saint Bavo Cathedral has been under scaffolding, undergoing a major overhaul. The tower and four stained glass windows are top of the list. The works will be carried out from top to bottom and the scaffolding will be taken down as soon as a section has been completed. But that will be some time in coming, because the restoration works won’t be over for at least four years.",
     "FR_description":"Lors du baptême de Charles Quint en 1500, la transformation de cette église résolument romane en grande cathédrale gotique battait encore son plein. Malgré l’important soutien financier de l’empereur, la cathédrale était encore inachevée 58 ans plus tard. Aucun service funèbre n’a donc pu y être organisé pour le souverain décédé.\nAujourd’hui, seule la crypte subsiste de l’église romane initiale. Le nombre de trésors artistiques que recèle la Cathédrale Saint-Bavon est impressionnant: le maître-autel baroque en marbre moiré de noiret blanc et de rouge, la chaire rococo en chêne, bois doré et marbre, une magnifique œuvre de Rubens, le triptyque du Calvaire attribué à Joos van Wassenhove, alias Juste de Gand, des mausolées d’évêques gantois, etc. Cependant, l’une de ces oeuvres se détache: le mondialement célèbre Agneau mystique d’Hubert et Jan van Eyck datant de 1432.\nCeux qui ont le courage de monter les 444 marches de la tour sont récompensés par une vue unique sur la ville.\nRestauration de la cathédrale Saint-Bavon\nDepuis le printemps 2013, la tour de la Cathédrale Saint-Bavon est en chantier pour se refaire une beauté. L’édifice s’apprête en effet à subir une restauration en profondeur. Les travaux concerneront surtout les tours et quatre vitraux. Ils se dérouleront du haut vers le bas et les échafaudages seront démontés dès qu’une partie sera terminée. Il faudra cependant faire preuve de patience, car la restauration s’étendra sur une durée de quatre ans. ",
     "image_link":"http://www.slimweg.be/images/Sint-Baafskathedraal_tcm9-24894.jpg",
-    "type":1
+    "type":2
   },
   {
     "id":4,
@@ -67,7 +67,7 @@
     "ENG_description":"At the municipal theatre you can enjoy plays – both classic and contemporary – performed by passionate actors in a building that breathes tradition. That's what Wim Opbrouck, the artistic director, stands for. On the terrace of the foyer you’ll enjoy a breathtaking view of Sint-Baafsplein, just like Apollo and his muses. The T-Bar welcomes you for a pint or a coffee and free internet access.  ",
     "FR_description":"Le théâtre municipal est une maison d’acteurs. Du théâtre par nécessité, classique ou contemporain, toujours mû par l’envie, dans un bâtiment plein de traditions. Wim Opbrouck, directeur artistique s'en porte garant. De la terrasse du foyer, vous jouissez, tout comme Apollon et ses muses, d’une belle vue sur la Sint-Baafsplein. Le T-Bar est ouvert à tous pour une bière ou un café et pour surfer gratuitement sur Internet.  ",
     "image_link":"http://nl.wikipedia.org/wiki/NTGent#mediaviewer/Bestand:NTG_24-06-2008_11-42-13.JPG",
-    "type":2
+    "type":4
   },
   {
     "id":5,
@@ -81,7 +81,7 @@
     "ENG_description":"The steeple of St Michael’s Church should have stood out above all the others, but history decided otherwise: the 134 metre high planned ‘monument of triumph’, has remained at a paltry 24 metres. In 1828, the unfinished tower finally acquired a closed roof. The church contains numerous paintings and sculptures by famous masters, including ‘Christ on the Cross’ by Anthony Van Dyck.  ",
     "FR_description":"La flèche de l’église Saint-Michel aurait dû dépasser toutes les autres, mais l’histoire en a décidé autrement: c’est en effet le prétendu ‘monument de la victoire’ de 134 mètres qui culmine, à 24 mètres seulement. En 1828, la tour inachevée a hérité définitivement d’un toit plat. L’église abrite de nombreuses œuvres de maîtres connus, dont ‘Le Christ en croix’ d’Antoon Van Dyck.  ",
     "image_link":"http://www.visitgent.be/sites/default/files/styles/727x310_detailpage/public/images-spot/jan_frans_willems.jpg",
-    "type":2
+    "type":6
   },
   {
     "id":6,
@@ -95,7 +95,7 @@
     "ENG_description":"The refectory wing of St Peter’s Abbey is authentically medieval. The splendid garden with its vineyard and ruins is a green oasis in the heart of the city.\nThe St Peter’s Abbey holds prestigious internationally-oriented exhibitions every year. You can visit the abbey with a unique movie guide.",
     "FR_description":"Jadis résonnaient ici les murmures des moines et le crissement des plumes d’oie.\nL’atmosphère sacrée des lieux continue de régner dans l’authentique réfectoire du Moyen-âge et entre les sarments du vignoble fertile. Un moine numérique vous emmène en reconnaissance de ce monument unique, qui abrite de prestigieuses expositions aux échos internationaux.",
     "image_link":"http://www.logistiek.be/wp-content/uploads/2012/07/haven-Gent-460x250.jpg",
-    "type":1
+    "type":2
   },
   {
     "id":7,
@@ -109,7 +109,7 @@
     "ENG_description":"Ghent’s fourth tower is a modernist masterpiece by the Belgian architect Henry Van de Velde. The 64-metre concrete building has 24 floors that house more than 2 million books. It was initially conceived as a university library and fulfils that same role to this day.  ",
     "FR_description":"La quatrième tour de Gand est un chef-d’œuvre moderniste de l’architecte belge Henry Van de Velde, conçu en 1933. Cette tour de béton haute de 64 mètres compte 24 étages et héberge plus de 3 millions de livres. Seule la salle de lecture est accessible aux visiteurs.  ",
     "image_link":"http://home.scarlet.be/architectuur/boekentoren/boekentoren41.jpg",
-    "type":2
+    "type":3
   },
   {
     "id":8,
@@ -123,7 +123,7 @@
     "ENG_description":"KBC TOUR",
     "FR_description":"CROISSANT CROISSANT",
     "image_link":"http://www.theon.be/sites/default/files/imagecache/940x300/Theon---Arteveldetoren---2013.png",
-    "type":2
+    "type":3
   },
   {
     "id":9,
@@ -137,7 +137,7 @@
     "ENG_description":"Port",
     "FR_description":"La halle est érigée sur la nouvelle Emile Braunplein (place Émile Braun) dans la Poeljemarkt, dans le centre historique de Gand. L'hôtel de ville se situe immédiatement au nord, l'église Saint-Nicolas à l'ouest et le beffroi à l'est. Il s'agit d'une grande structure d'une quarantaine de mètres de long, constituée d'un toit en bois reposant à chaque coin sur un pilier de béton, permettant ainsi d'être ouverte et accessible de tous les côtés.\nLe toit est asymétrique ; sa forme à deux pignons fait référence à celle de l'hôtel de ville tout proche. Il est constitué d'une structure d'acier recouverte d'une finition en afrormosia (en), elle même protégée par une enveloppe de verre1,2. Il comporte 1 600 petites fenêtres, donnant à l'ensemble un éclairage dynamique3.\nLe sous-sol de la halle est occupé par une brasserie, des toilettes, des vestiaires et un parc pour environ 200 vélos. L'Emile Braunplein comprend également la fontaine des Agenouillés, œuvre du sculpteur George Minne, et la Klokke Roeland (nl), une ancienne cloche du beffroi, exposée sur un socle de béton.",
     "image_link":"http://www.infosteel.be/cca12/a001b.jpg",
-    "type":2
+    "type":1
   },
   {
     "id":10,
@@ -151,7 +151,7 @@
     "ENG_description":"This church in Tournai bluestone is one of the most beautiful examples of the Scheldt Gothic style. One of its unique elements is that the tower is not above the entrance, but above the crossing of the nave and transepts. It functions as a sort of natural lantern as the light shines into the transept from the tower.",
     "FR_description":"Bâtie en pierres bleues de Tournai, cette église est l’un des plus beaux exemples de gothique scaldien. Sa tour quadrangulaire, qui surplombe non pas l’entrée mais la croisée de la nef principale et des nefs latérales, est tout simplement unique. Elle fait office de lanterne naturelle car la lumière pénètre directement dans le transept.",
     "image_link":"http://www.sintniklaaskerk.be/media/photos/560/021f552775075dd9e053e30072ea21045d628ef3.jpg",
-    "type":1
+    "type":2
   },
   {
     "id":11,
@@ -165,6 +165,6 @@
     "ENG_description":"GRAVENSTEEEEEEEEEEEEEN STONE STONE STONE",
     "FR_description":"La flèche de l’église Saint-Michel aurait dû dépasser toutes les autres, mais l’histoire en a décidé autrement: c’est en effet le prétendu ‘monument de la victoire’ de 134 mètres qui culmine, à 24 mètres seulement. En 1828, la tour inachevée a hérité définitivement d’un toit plat. L’église abrite de nombreuses œuvres de maîtres connus, dont ‘Le Christ en croix’ d’Antoon Van Dyck.  ",
     "image_link":"http://en.wikipedia.org/wiki/Gravensteen#mediaviewer/File:Gravensteen_(Gent)_MM.jpg",
-    "type":2
+    "type":5
   }
 ]
