@@ -15,8 +15,7 @@ Adding data
 ===========
 Adding a building to the list is easy. Click poi.json in the list above, click edit in the top right corner  and paste this template under the last entry, before the last ], and fill in the data between <>s [Remove the hooks too!].
 
-    ,
-     {
+    ,{
     "id":<NEXT NUMBER>,
     "NL_name":"<DUTCH NAME>",
     "ENG_name":<<ENGLISH NAME>",
