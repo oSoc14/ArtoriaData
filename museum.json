@@ -15,7 +15,7 @@
 	"RU_name":"",
 	"RU_desc":"",
 	"DE_name":"",
-	"DE_desc":"",
+	"DE_desc":""
 	},
         {
         "floor":1,
@@ -33,7 +33,7 @@
         "RU_name":"",
         "RU_desc":"",
         "DE_name":"",
-        "DE_desc":"",
+        "DE_desc":""
         },
         {
         "floor":2,
@@ -51,7 +51,7 @@
         "RU_name":"",
         "RU_desc":"",
         "DE_name":"",
-        "DE_desc":"",
+        "DE_desc":""
         },
         {
         "floor":3,
@@ -69,7 +69,7 @@
         "RU_name":"",
         "RU_desc":"",
         "DE_name":"",
-        "DE_desc":"",
+        "DE_desc":""
         },
         {
         "floor":4,
@@ -87,6 +87,6 @@
         "RU_name":"",
         "RU_desc":"",
         "DE_name":"",
-        "DE_desc":"",
+        "DE_desc":""
         }
 ]
