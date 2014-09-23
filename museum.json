@@ -1,5 +1,8 @@
 [
-	{
+  {
+    "floor":0,
+    "floorExhibits":[
+     {
 	"floor":0,
 	"image":"http://users.skynet.be/ovo/GentseDraak.jpg",
 	"NL_name":"Gelijkvloers",
@@ -34,77 +37,7 @@
 	"RU_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
 	"DE_name":"",
 	"DE_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh..."
-	},
-        {
-        "floor":1,
-        "image":"http://users.skynet.be/ovo/GentseDraak.jpg",
-        "NL_name":"Eerste verdiep",
-        "NL_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "EN_name":"First floor",
-        "EN_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "FR_name":"Première étage",
-        "FR_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "IT_name":"",
-        "IT_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "ES_name":"",
-        "ES_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "RU_name":"",
-        "RU_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "DE_name":"",
-        "DE_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh..."
-        },
-        {
-        "floor":2,
-        "image":"http://users.skynet.be/ovo/GentseDraak.jpg",
-        "NL_name":"Tweede verdiep",
-        "NL_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "EN_name":"Second floor",
-        "EN_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "FR_name":"Deuxième étage",
-        "FR_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "IT_name":"",
-        "IT_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "ES_name":"",
-        "ES_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "RU_name":"",
-        "RU_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "DE_name":"",
-        "DE_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh..."
-        },
-        {
-        "floor":3,
-        "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gent_Belfort_met_lakenhal_20-08-2008_16-18-58.JPG/264px-Gent_Belfort_met_lakenhal_20-08-2008_16-18-58.JPG",
-        "NL_name":"Derde verdiep",
-        "NL_desc": "I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "EN_name":"Third floor",
-        "EN_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "FR_name":"Troisième étage",
-        "FR_desc":"I'm sorry. I'm so sorry. I don't want to go. There's something else I've always wanted to say: Allons-y, Alonso! Yeah? Well I'm the Lord of Time. I'd call you a genius, except I'm in the room. You can spend the rest of your life with me, but I can't spend the rest of mine with you. I have to live on. Alone. That's the curse of the Time Lords. Please, when Torchwood comes to write my complete history, don't tell people I travelled through time and space with her mother! Blimey, trying to make an Ood laugh...",
-        "IT_name":"",
-        "IT_desc":"",
-        "ES_name":"",
-        "ES_desc":"",
-        "RU_name":"",
-        "RU_desc":"",
-        "DE_name":"",
-        "DE_desc":""
-        },
-        {
-        "floor":4,
-        "image":"http://users.skynet.be/ovo/GentseDraak.jpg",
-        "NL_name":"Vierde verdiep",
-        "NL_desc":"lorem ipsum int nederlands ee",
-        "EN_name":"Fourth floor",
-        "EN_desc":"lorem ipsum in English",
-        "FR_name":"Quattrième étage",
-        "FR_desc":"patati patata",
-        "IT_name":"",
-        "IT_desc":"",
-        "ES_name":"",
-        "ES_desc":"",
-        "RU_name":"",
-        "RU_desc":"",
-        "DE_name":"",
-        "DE_desc":""
-        }
+	}
+    ]
+  }
 ]
