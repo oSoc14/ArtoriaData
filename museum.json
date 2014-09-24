@@ -1,7 +1,4 @@
 [
-    {
-    "floor":0,
-    "exhibits":[
      {
 	"floor":0,
 	"image":"http://users.skynet.be/ovo/GentseDraak.jpg",
@@ -37,12 +34,7 @@
 	"RU_desc":"",
 	"DE_name":"",
 	"DE_desc":""
-	}
-    ]
-  },
-    {
-        "floor":1,
-        "exhibits":[
+	},
             {
                 "floor":1,
                 "image":"",
@@ -78,12 +70,7 @@
                 "RU_desc":"",
                 "DE_name":"",
                 "DE_desc":""
-            }
-        ]
-    },
-    {
-        "floor":2,
-        "exhibits":[
+             },
             {
                 "floor":2,
                 "image":"",
@@ -137,13 +124,8 @@
                 "RU_desc":"",
                 "DE_name":"",
                 "DE_desc":""
-            }
-        ]
-    },
-    {
-        "floor":3,
-        "exhibits":[
-            {
+            },
+           {
                 "floor":3,
                 "image":"",
                 "NL_name":"Het mechanische uurwerk en de speeltrommel (vierde verdieping)",
@@ -197,6 +179,4 @@
                 "DE_name":"",
                 "DE_desc":""
             }
-        ]
-    }
 ]
