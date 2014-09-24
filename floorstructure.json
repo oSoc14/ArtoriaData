@@ -1,8 +1,6 @@
 {
-    "floor":0,
-    "exhibits":[
-     {
-	"floor":0,
+    {
+        "floor":0,
 	"image":"",
 	"NL_name":"",
 	"NL_desc":"",
@@ -19,6 +17,5 @@
 	"DE_name":"",
 	"DE_desc":""
       }
-      ]
 }
 
